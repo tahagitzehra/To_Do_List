@@ -1,0 +1,28 @@
+body {
+    background-color: #5e5959
+}
+
+#newtask button {
+    position: relative;
+    cursor: pointer;
+}
+.task button{
+cursor: pointer;
+}
+#tasks {
+    position: relative;
+}
+
+div {
+    background-color: rgb(252, 249, 249);
+    display: table;
+    padding: 5px;
+    margin-top: 32px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
